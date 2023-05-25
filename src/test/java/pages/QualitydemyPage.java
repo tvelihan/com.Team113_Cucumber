@@ -25,6 +25,4 @@ public class QualitydemyPage {
 
     @FindBy(xpath = "//a[text()='Instructor']")
     public WebElement basariliGirisKontrolElementi;
-
 }
-
